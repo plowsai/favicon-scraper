@@ -16,31 +16,6 @@ A Python application that extracts favicons from websites by analyzing HTML meta
 - **CLI Interface**: Easy-to-use command-line interface for batch processing
 - **Configurable Options**: Customizable timeout, user agent, and output settings
 
-## Installation
-
-### Prerequisites
-
-- Python 3.7 or higher
-- pip (Python package installer)
-
-### Setup
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/favicon-scraper.git
-cd favicon-scraper
-```
-
-2. Create a virtual environment (recommended):
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
 
 ## Usage
 
@@ -297,4 +272,3 @@ python favicon_scraper.py <url> --verbose --debug
 ---
 
 Made with ❤️ for the web development community
-# favicon-scraper
